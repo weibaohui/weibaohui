@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **weibaohui/weibaohui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+- 🔭 I’m working hard
+
+- 📫  We're hiring! Contact me:  weibaohui AT chinamobile.com.
+
+[![weibaohui's github stats](https://github-readme-stats.vercel.app/api?username=weibaohui)](https://github.com/weibaohui)
